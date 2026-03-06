@@ -6,12 +6,7 @@ Thumbs.db
 .vscode/
 
 # Node / Angular (frontend)
-frontend/node_modules/
-frontend/dist/
-frontend/.angular/
-frontend/.npm/
-frontend/npm-debug.log*
-frontend/package-lock.json
+
 
 # Python / Django (backend)
 backend/.venv/
